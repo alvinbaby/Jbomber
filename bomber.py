@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python
 from datetime import datetime
 import os
@@ -20,7 +21,7 @@ except ImportError:
 
 colors=['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;34m','\033[1;35m','\033[1;36m']
 W='\033[0m'
-# The Credit For This Code Goes To CyberGhost And All Other Contributors Listed At https://github.com/MrHarshArora/CyberGhostWeapon
+# The Credit For This Code Goes To CyberGhost And All Other Contributors Listed At https://github.com/alvinbaby/Jbomber
 # If You Wanna Take Credits For This Code, Please Look Yourself Again
 
 country_codes = {
@@ -239,13 +240,7 @@ def clr():
 def banner():
 
     clr()
-    logo=""" 
-  ____      _                ____ _               _   
- / ___|   _| |__   ___ _ __ / ___| |__   ___  ___| |_ 
-| |  | | | | '_ \ / _ \ '__| |  _| '_ \ / _ \/ __| __|
-| |__| |_| | |_) |  __/ |  | |_| | | | | (_) \__ \ |_ 
- \____\__, |_.__/ \___|_|   \____|_| |_|\___/|___/\__|
-      |___/  """
+    logo=""" J-bomber  """
     print(random.choice(colors)+logo+W)
     print("\n")
 
