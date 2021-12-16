@@ -24,7 +24,7 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet JbomberWeapon
+figlet Jbomber
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border Jbomber
 echo -e "\e[4;34m This Bomber Was Created By Jbomber\e[0m"
