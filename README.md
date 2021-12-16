@@ -51,7 +51,7 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/MrHarshArora/Jbomber.git
+git clone https://github.com/alvinbaby/Jbomber.git
 cd Jbomber
 chmod +x Jbomber.sh
 ./Jbomber.sh
@@ -69,7 +69,7 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/MrHarshArora/Jbomber.git
+git clone https://github.com/alvinbaby/Jbomber.git
 cd Jbomber
 chmod +x Jbomber.sh
 sudo bash Jbomber.sh
@@ -89,7 +89,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/MrHarshArora/Jbomber.git
+git clone https://github.com/alvinbaby/Jbomber.git
 cd Jbomber
 chmod +x Jbomber.sh
 
@@ -104,15 +104,15 @@ sudo bash Jbomber.sh
 
 ## Demontrative Video:
 
-- Watch Indian Bombing Method <a href="https://www.youtube.com/watch?v=3OGGi0AtCB8&t=12s&ab_channel=CyberGhost">here</a><br>
+- Watch Indian Bombing Method <a href="https://www.youtube.com">here</a><br>
 
 Feel Free To Open An Issue...
 
 ```
-                 Mail: cyb3r.gh02t.ha@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/CyberGhost
+                 Mail: @gmail.com<br>
+       YouTube Channel: https://www.youtube.com
 ```
 
-<a href="https://www.youtube.com/channel/UCM8l2r-7JyN6MdQQweDPGcA?view_as=subscriber">Check Out My YouTube Channel</a>
+<a href="https://www.youtube.com">Check Out My YouTube Channel</a>
 
 
