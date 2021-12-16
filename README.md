@@ -52,9 +52,9 @@ To use the bomber type the following commands in Termux:
 pkg install git
 pkg install python
 git clone https://github.com/alvinbaby/Jbomber.git
-cd Jbomber
-chmod +x Jbomber.sh
-./Jbomber.sh
+cd J-bomber
+chmod +x J-bomber.sh
+./J-bomber.sh
 ```
 
 ### > For Linux:
@@ -70,9 +70,9 @@ To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
 git clone https://github.com/alvinbaby/Jbomber.git
-cd Jbomber
-chmod +x Jbomber.sh
-sudo bash Jbomber.sh
+cd J-bomber
+chmod +x J-bomber.sh
+sudo bash J-bomber.sh
 ```
 
 ### > For macOS:
@@ -91,15 +91,15 @@ sudo easy_install pip
 sudo pip install --upgrade pip
 git clone https://github.com/alvinbaby/Jbomber.git
 cd Jbomber
-chmod +x Jbomber.sh
+chmod +x J-bomber.sh
 
 # Missing Tools on MacOS
 
-Toilet cannot be installed yet. But Jbomber does still work.
+Toilet cannot be installed yet. But J-bomber does still work.
 
-# Run Jbomber:
+# Run J-bomber:
 
-sudo bash Jbomber.sh
+sudo bash J-bomber.sh
 ```
 
 ## Demontrative Video:
