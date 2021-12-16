@@ -1,5 +1,5 @@
 <h1 align="center">J bomber v1.0</h1>
-<p align="center">An Ultimate CyberGhost's  SMS/call bomber For Linux and Termux</p><br>
+<p align="center">An Ultimate Jbomber's  SMS/call bomber For Linux and Termux</p><br>
 
 ## Note:
 
