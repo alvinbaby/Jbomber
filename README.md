@@ -52,7 +52,7 @@ To use the bomber type the following commands in Termux:
 pkg install git
 pkg install python
 git clone https://github.com/alvinbaby/Jbomber.git
-cd J-bomber
+cd Jbomber
 chmod +x J-bomber.sh
 ./J-bomber.sh
 ```
@@ -70,7 +70,7 @@ To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
 git clone https://github.com/alvinbaby/Jbomber.git
-cd J-bomber
+cd Jbomber
 chmod +x J-bomber.sh
 sudo bash J-bomber.sh
 ```
