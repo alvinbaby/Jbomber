@@ -1,6 +1,19 @@
 <h1 align="center">J bomber v1.0</h1>
 <p align="center">An Ultimate Jbomber's  SMS/call bomber For Linux and Termux</p><br>
 
+----
+
+<h3 align="center">Please follow Me:</h3>
+<p align="center">
+<a href="https://instagram.com/mr__alvin_07?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+</p>
+<h4 align="center">Please subscribe channel 👇:</h4>
+<p align="center">
+<a href="https://youtube.com/channel/UCpo3efKm3m1XVCzecSAOgkA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+</p>
+
+----
+
 ## Note:
 
 **Due misusing of Jbomber, several API's died.**  
@@ -101,17 +114,7 @@ Toilet cannot be installed yet. But J-bomber does still work.
 
 sudo bash J-bomber.sh
 ```
-
-## Demontrative Video:
-
-- Watch Indian Bombing Method <a href="https://www.youtube.com">here</a><br>
-
-Feel Free To Open An Issue...
-
-```
-                 Mail: @gmail.com<br>
-       YouTube Channel: https://www.youtube.com
-```
+----
 
 <a href="https://www.youtube.com">Check Out My YouTube Channel</a>
 
