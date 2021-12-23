@@ -63,10 +63,15 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Termux:
 ```
 pkg install git
+
 pkg install python
+
 git clone https://github.com/alvinbaby/Jbomber.git
+
 cd Jbomber
+
 chmod +x J-bomber.sh
+
 ./J-bomber.sh
 ```
 
