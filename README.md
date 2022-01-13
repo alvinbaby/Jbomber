@@ -121,6 +121,6 @@ sudo bash J-bomber.sh
 ```
 ----
 
-<a href="https://www.youtube.com">Check Out My YouTube Channel</a>
+<a href="https://youtube.com/channel/UCrSi_WwYSHVJ5fsrqFNUPZg">Check Out My YouTube Channel</a>
 
 
